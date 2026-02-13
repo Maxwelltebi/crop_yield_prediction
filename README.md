@@ -116,8 +116,8 @@ The app will open automatically at `http://localhost:8501`
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Maxwelltebi
+- LinkedIn: www.linkedin.com/in/maxwelltebi
 
 ---
 
